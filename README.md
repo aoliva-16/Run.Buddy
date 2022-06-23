@@ -8,7 +8,7 @@ A website thaat offers fitness training services.
 * Css
 
 ## Website 
-https://learnantino.github.io/run-buddy/
+https://aoliva-16.github.io/Run.Buddy/
 
 ## Contribution 
 Made with ❤️ by Angelica Olivares
